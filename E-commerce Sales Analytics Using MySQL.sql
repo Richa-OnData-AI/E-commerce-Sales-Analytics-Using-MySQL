@@ -1,7 +1,6 @@
 --                                       Project Title: E-commerce Sales Analytics Using MySQL
 -- OBJECTIVES:
 -- This project simulates an end-to-end data analytics scenario for an e-commerce company.
--- The aim is to help data analyst aspirants work with realistic transactional.  
 -- This is an operational datasets covering customers, orders, products, payments, reviews, and logistics. 
 -- The project covers both basic and advanced SQL techniques to derive business insights around customer behavior, sales performance, delivery issues, and product-level KPIs.
 
